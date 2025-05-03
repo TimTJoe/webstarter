@@ -1,5 +1,5 @@
 {
-  "name": "fullstarter",
+  "name": "webstartor",
   "version": "1.0.0",
   "description": "Full Stack Web App Starter file",
   "keywords": [
@@ -7,7 +7,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "github.com/timtjoe/fullstarter"
+    "url": "github.com/timtjoe/webstartor"
   },
   "license": "MIT",
   "author": "Timothy T. Joe | timtjoe@gmail.com",
