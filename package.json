@@ -1,0 +1,22 @@
+{
+  "name": "fullstarter",
+  "version": "1.0.0",
+  "description": "Full Stack Web App Starter file",
+  "keywords": [
+    "Boilerplate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github.com/timtjoe/fullstarter"
+  },
+  "license": "MIT",
+  "author": "Timothy T. Joe | timtjoe@gmail.com",
+  "type": "commonjs",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
