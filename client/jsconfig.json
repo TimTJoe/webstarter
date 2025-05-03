@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      // "@src/*": ["src/*"],
+      "@pages/*": ["src/pages/*"],
+      "@components/*": ["src/components/*"],
+      "@asserts/*": ["src/asserts/*"],
+      "@css/*": ["src/css/*"],
+      "@stores/*": ["src/stores/*"],
+      "@helpers/*": ["src/helpers/*"],
+      "@libs/*": ["src/libs/*"],
+      "@services/*": ["src/services/*"],
+    }
+  },
+  "include": ["src", "../../trash/Fields.jsx"]
+}

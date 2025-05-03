@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@src/*": ["src/*"],
+      "@controllers/*": ["controllers/*"],
+      "@database/*": ["database/*"],
+      "@asserts/*": ["asserts/*"],
+      "@helpers/*": ["helpers/*"],
+      "@lib/*": ["lib/*"],
+      "@types/*": ["types/*"],
+      "@routes/*": ["routes/*"],
+      "@services/*": ["services/*"],
+      "@middlewares/*": ["middlewares/*"],
+      "@schemas/*": ["database/schemas/*"],
+      "@migrations/*": ["database/migrations/*"],
+      "@seeds/*": ["database/seeds/*"],
+    }
+  },
+}

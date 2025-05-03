@@ -1,0 +1,60 @@
+:root {
+  /* Background Colors */
+  --bg-white: #ffffff;
+  --bg-azure: #ddf4ff;
+  --bg-stone: #e5e5e5;
+  --bg-amber: #ffc800;
+  --bg-emerald: #00cd9c;
+  --bg-chartreuse: #58cc02;
+  --bg-sky: #1cb0f6;
+  --bg-mauve: #ce82ff;
+  --bg-ruby: #ff4b4b;
+  --bg-violet: #3c4dff;
+  --bg-translucent: #00000066; /* 40% opacity */
+  --bg-translucent1: #0000004d; /* 30% opacity */
+
+  /* Text Colors */
+  --text-white: #ffffff;
+  --text-stone: #e5e5e5;
+  --text-amber: #ffc800;
+  --text-emerald: #00cd9c;
+  --text-chartreuse: #58cc02;
+  --text-gray: #afafaf;
+  --text-sky: #1cb0f6;
+  --text-mauve: #ce82ff;
+  --text-ruby: #ff4b4b;
+  --text-ochre: #cd7900;
+  --text-silver: #777777;
+  --text-indigo: #3f22ec;
+  --text-charcoal: #4b4b4b;
+  --text-blue: #0000ee;
+  --text-slate: #3c3c3c;
+  --text-translucent: #1010104d;
+  --text-translucent2: #00000033;
+  --text-black: #000000;
+  --text-lime: #89e219;
+  --text-orange: #f49000;
+  --text-rawsienna: #b06800;
+  --text-black-translucent3: #00000006;
+
+  /* Border Colors */
+  --border-white: #ffffff;
+  --border-stone: #e5e5e5;
+  --border-aqua: #84d8ff;
+  --border-gray: #afafaf;
+  --border-translucent: #00000033; /* 20% opacity */
+
+  /*Fill Colors*/
+  --fill-white: #ffffff;
+  --fill-azure: #ddf4ff;
+  --fill-stone: #e5e5e5;
+  --fill-amber: #ffc800;
+  --fill-emerald: #00cd9c;
+  --fill-chartreuse: #58cc02;
+  --fill-sky: #1cb0f6;
+  --fill-mauve: #ce82ff;
+  --fill-ruby: #ff4b4b;
+  --fill-violet: #3c4dff;
+  --fill-black-translucent1: #00000066; /* 40% opacity */
+  --fill-black-translucent2: #0000004d; /* 30% opacity */
+}

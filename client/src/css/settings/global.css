@@ -1,0 +1,72 @@
+:root {
+    --font: Roboto, "Open Sans", "Poppins";
+    /* CHANGE TO EMOJI FONT ICON */
+    --font-icon: "Material Icons Outlined";
+
+    /* Typography */
+    --font-tiny: 12px;
+    --font-xs: 0.875rem;
+    --font-sm: 1rem;
+    --font-md: 1.5rem;
+    --font-lg: 3rem;
+    --size: 1rem;
+    --fill-variation: 'FILL' 1, 'wght' 500, 'GRAD' 0, 'opsz' 48;
+
+    /* Spacing */
+    --spacing-tiny: 0.25rem;
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 1.5rem;
+    --spacing-xl: 2.5rem;
+
+    /* Border Radius */
+    --round-xs: 0.25rem;
+    --round-sm: 0.5rem;
+    --round-md: 1.4rem;
+    --round-lg: 2.5rem;
+    --round: 50%;
+
+    /* Shadows */
+    --shadow-color: rgba(0, 0, 0, 0.1);
+    --shadow-sm: 0 1px 3px var(--shadow-color);
+    --shadow-md: 0 4px 6px var(--shadow-color);
+    --shadow-lg: 0 10px 15px var(--shadow-color);
+
+    /* Z-index */
+    --z-index-dropdown: 1000;
+    --z-index-modal: 1050;
+    --z-index-tooltip: 1100;
+
+    /* transition/transform */
+    --speed-fast: 0.1s;
+    --speed: 0.3s;
+    --speed-slow: 0.4s;
+    --scale-sm: scale(.97);
+
+    /* opacity */
+    --opacity: 0;
+    --opacity-sm: 0.75;
+    --opacity-md: 0.5;
+    --opacity-lg: 0.25;
+    --no-opacity: 1;
+
+    /* element width */
+    --width: 100%;
+    --width-lg: 36rem;
+    --width-md: 24rem;
+    --width-sm: 12rem;
+    --width-tiny: 6rem;
+
+    /* media query */
+    --mquery-tiny: 360px;
+    --mquery-xs: 484px;
+    --mquery-sm: 600px;
+    --mquery-md: 993px;
+    --mquery-xl: 1208px;
+
+    /* element Height */
+    --height-lg: 36rem;
+    --height-md: 24rem;
+    --height-sm: 12rem;
+    --height-tiny: 6rem;
+}
